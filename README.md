@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikaelaMDS
+- 👋 Hi, I’m @Mikaela Santos
 
 <!---
 MikaelaMDS/MikaelaMDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
